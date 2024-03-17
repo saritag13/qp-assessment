@@ -5,6 +5,7 @@ Steps to tun the project
 1. npm install -g typescript
 2. cd qp-assessment
 3. npm i
+4. create .env file in the root folder and add the env variables
 4. npm run dev
 
 Queries to create Tables
